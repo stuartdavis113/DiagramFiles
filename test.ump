@@ -1,0 +1,8 @@
+class Superclass
+{
+}
+
+class Subclass
+{
+  isA Superclass;
+}
